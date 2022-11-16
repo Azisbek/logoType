@@ -1,0 +1,1142 @@
+@media (min-width: 0px) and (max-width: 500px) {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    width: 375px;
+    height: 1097px;
+    background: #fdf2e9;
+  }
+
+  body {
+    font-family: "Rubik";
+    width: 375px;
+    height: 100%;
+  }
+
+  .logo {
+    padding-top: 2.8125rem;
+    margin-left: 1rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #000000;
+  }
+  .nav-m {
+    display: none;
+  }
+
+  .text-a {
+    padding-top: 6.1875rem;
+    margin-left: 1rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 34px;
+    width: 343px;
+    height: 102px;
+    color: #333333;
+  }
+
+  .the-smart {
+    margin-top: 2rem;
+    margin-left: 1rem;
+    width: 343px;
+    height: 84px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+  }
+
+  .button-1 {
+    margin-top: 3rem;
+    margin-left: 1rem;
+    width: 162px;
+    height: 43px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    background: #e67e22;
+    border-radius: 8px;
+    color: #ffffff;
+    border: none;
+  }
+
+  .button-2 {
+    margin-left: 1.25rem;
+    width: 161px;
+    height: 43px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    border-radius: 8px;
+    color: #555555;
+    background: #ffffff;
+    border: none;
+  }
+
+  .container-header-3 {
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 4.5rem;
+  }
+
+  .logo-img-1 {
+    background-image: url(../logo/Ellipse\ 1.png);
+    background-size: contain;
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 18px;
+  }
+  .logo-img-2 {
+    background-image: url(../logo/Ellipse\ 2.png);
+    background-size: contain;
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 44px;
+  }
+  .logo-img-3 {
+    background-image: url(../logo/Ellipse\ 3.png);
+    background-size: contain;
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 71px;
+  }
+  .logo-img-4 {
+    background-image: url(../logo/Ellipse\ 4.png);
+    background-size: contain;
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 97px;
+  }
+  .logo-img-5 {
+    background-image: url(../logo/Ellipse\ 5.png);
+    background-size: contain;
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 123px;
+  }
+  .logo-img-6 {
+    background-image: url(../logo/Ellipse\ 6.png);
+    background-size: contain;
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 149px;
+  }
+
+  .meals-250 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #e67e22;
+  }
+
+  .text-meals {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+    padding-top: 3.3125rem;
+    /* margin-left: 1.25rem; */
+  }
+
+  .img-1 {
+    background-image: url(../image/Rectangle\ 10.png);
+    background-size: contain;
+    position: absolute;
+    width: 187px;
+    height: 208px;
+    left: 93px;
+    top: 677px;
+  }
+
+  .img-2 {
+    background-image: url(../image/Rectangle\ 11.png);
+    background-size: contain;
+    position: absolute;
+    width: 195px;
+    height: 156px;
+    left: 165px;
+    top: 777px;
+  }
+
+  .img-3 {
+    background-image: url(../image/Rectangle\ 12.png);
+    background-size: contain;
+    position: absolute;
+    width: 244px;
+    height: 162px;
+    left: 15px;
+    top: 855px;
+  }
+
+  .main-1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+    margin-top: 3rem;
+    color: #888888;
+  }
+
+  .ul-li-img {
+    margin-top: 32px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    display: flex;
+  }
+
+  .sh1 {
+    background-image: url(../img-fond/techcrunch\ 2.png);
+    list-style: none;
+    width: 65px;
+    height: 9px;
+  }
+
+  .sh2 {
+    list-style: none;
+    background-image: url(../img-fond/business-insider\ 2.png);
+    width: 40px;
+    height: 13px;
+    margin-left: 8px;
+  }
+
+  .sh3 {
+    list-style: none;
+    background-image: url(../img-fond/the-new-york-times\ 2.png);
+    width: 89px;
+    height: 12px;
+    margin-left: 8px;
+  }
+
+  .sh4 {
+    list-style: none;
+    background-image: url(../img-fond/forbes\ 2.png);
+    margin-left: 8px;
+    width: 43px;
+    height: 11px;
+  }
+
+  .sh5 {
+    list-style: none;
+    background-image: url(../img-fond/usa-today\ 2.png);
+    margin-left: 8px;
+    width: 71px;
+    height: 13px;
+  }
+
+  .how-it {
+    margin-top: 7.625rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .text-name-1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #e67e22;
+  }
+
+  .your-daily {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    margin-top: 1rem;
+    color: #333333;
+  }
+
+  .krug-1 {
+    position: absolute;
+    width: 212px;
+    height: 212px;
+    left: 81px;
+    top: 1518px;
+    border-radius: 50%;
+    background: #fff3e9;
+  }
+
+  .krug-2 {
+    position: absolute;
+    width: 158px;
+    height: 158px;
+    left: 108px;
+    top: 1545px;
+    border-radius: 50%;
+    background: #ffd8b7;
+  }
+
+  .mobile-3 {
+    background-image: url(../image/app-screen-1\ 4.png);
+    position: absolute;
+    width: 120px;
+    height: 241px;
+    left: 127px;
+    top: 1499px;
+  }
+
+  .number-01 {
+    margin-top: 22.8125rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    /* identical to box height */
+
+    color: #dddddd;
+  }
+
+  .tel-oglav1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    width: 200px;
+    height: 64px;
+    color: #333333;
+  }
+
+  .tel-text1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    margin-top: 40px;
+    color: #555555;
+  }
+
+  .krug-4 {
+    position: absolute;
+    width: 212px;
+    height: 212px;
+    left: 81px;
+    top: 2145px;
+    border-radius: 50%;
+    background: #fff3e9;
+  }
+
+  .krug-5 {
+    position: absolute;
+    width: 157px;
+    height: 157px;
+    left: 108px;
+    top: 2172px;
+    border-radius: 50%;
+    background: #ffd8b7;
+  }
+
+  .mobile-6 {
+    background-image: url(../image/app-screen-1\ 2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 117px;
+    height: 242px;
+    left: 128px;
+    top: 2125px;
+  }
+
+  .number-02 {
+    margin-top: 25.875rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    /* identical to box height */
+
+    color: #dddddd;
+  }
+
+  .tel-oglav2 {
+    margin-top: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+
+    color: #333333;
+  }
+
+  .tel-text2 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    margin-top: 40px;
+    color: #555555;
+  }
+
+  .krug-7 {
+    position: absolute;
+    width: 212px;
+    height: 212px;
+    left: 81px;
+    top: 2739px;
+    border-radius: 50%;
+    background: #fff3e9;
+  }
+
+  .krug-8 {
+    position: absolute;
+    width: 158px;
+    height: 158px;
+    left: 108px;
+    top: 2766px;
+    border-radius: 50%;
+    background: #ffd8b7;
+  }
+
+  .mobile-9 {
+    background-image: url(../image/app-screen-1\ 3.png);
+    background-size: contain;
+    position: absolute;
+    width: 118px;
+    height: 241px;
+    left: 128px;
+    top: 2720px;
+  }
+
+  .number-3 {
+    margin-top: 25.875rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    /* identical to box height */
+
+    color: #dddddd;
+  }
+
+  .tel-oglav3 {
+    margin-top: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+
+    color: #333333;
+  }
+
+  .tel-text3 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    margin-top: 40px;
+    color: #555555;
+  }
+
+  .meals {
+    margin-top: 7.5rem;
+    text-align: center;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #e67e22;
+  }
+  .omifood {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #333333;
+  }
+
+  .foot {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 6rem;
+    width: 343px;
+    height: 500px;
+    background: #ffffff;
+    box-shadow: 0px 1px 15px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+  }
+
+  .imgmeel-1 {
+    background-image: url(../image/meal-1\ 1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 343px;
+    height: 227px;
+  }
+
+  .but-1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    background: #51cf66;
+    border-radius: 25px;
+    width: 97px;
+    height: 23px;
+    border: none;
+    color: #333333;
+    margin-top: 40px;
+    margin-right: 206px;
+    margin-left: 40px;
+  }
+
+  .japan {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    margin-top: 14px;
+    color: #333333;
+  }
+
+  .list {
+    list-style: none;
+    margin-top: 33px;
+  }
+
+  .list-itom-1 {
+    margin-top: 1.1rem;
+    font-family: "Rubik";
+    font-style: normal;
+
+    font-size: 19px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #555555;
+  }
+
+  .foot-2 {
+    margin-top: 3rem;
+    width: 343px;
+    height: 500px;
+    background: #ffffff;
+    box-shadow: 0px 1px 15px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+  }
+
+  .imgmeel-2 {
+    background-image: url(../image/meal-1\ 2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 343px;
+    height: 227px;
+  }
+
+  .but-2 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    background: #51cf66;
+    border-radius: 25px;
+    width: 97px;
+    height: 23px;
+    border: none;
+    color: #333333;
+    margin-top: 270px;
+    margin-right: 206px;
+    margin-left: 40px;
+  }
+
+  .but-3 {
+    position: absolute;
+    width: 58px;
+    height: 23px;
+    left: 161px;
+    top: 4342px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    background: #f2c94c;
+    border-radius: 25px;
+    border: none;
+    color: #333333;
+  }
+
+  .avacado {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    margin-top: 1rem;
+    color: #333333;
+  }
+
+  .works-tema {
+    margin-top: 600px;
+  }
+
+  .works-with {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+
+    color: #333333;
+  }
+
+  .list-itom-works {
+    margin-top: 41px;
+  }
+
+  .list-foot {
+    list-style: none;
+    display: flex;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    /* identical to box height */
+    margin-top: 25px;
+    margin-left: 90.25px;
+    color: #555555;
+  }
+
+  .povar {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .sec {
+    margin-top: 116px;
+    width: 375px;
+    height: 1453px;
+    background: #fdf2e9;
+  }
+
+  .testi {
+    padding-top: 5.25rem;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #e67e22;
+  }
+
+  .once {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #333333;
+  }
+
+  .logo-1 {
+    margin-top: 88px;
+    background-image: url(../logo/Ellipse\ 13.png);
+    width: 64px;
+    height: 64px;
+  }
+
+  .dave-text {
+    margin-top: 22px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    width: 340px;
+    height: 57px;
+    color: #555555;
+  }
+
+  .fot {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #999494;
+  }
+
+  .logo-2 {
+    margin-top: 40px;
+    background-image: url(../logo/Ellipse\ 14.png);
+    width: 64px;
+    height: 64px;
+  }
+
+  .dave {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 22px;
+    /* width: 343px; */
+    /* height: 57px; */
+    color: #555555;
+  }
+
+  .logo-3 {
+    margin-top: 40px;
+    background-image: url(../logo/Ellipse\ 15.png);
+    width: 64px;
+    height: 64px;
+  }
+  .logo-4 {
+    margin-top: 40px;
+    background-image: url(../logo/Ellipse\ 16.png);
+    width: 64px;
+    height: 64px;
+  }
+
+  .fot-steve {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #999494;
+  }
+
+  .image-foto {
+    margin-top: 70px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .foot-eath1 {
+    background-image: url(../image/gallery-2.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+
+  .foot-eath2 {
+    margin-left: 8px;
+    background-image: url(../image/gallery-3.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath3 {
+    margin-left: 8px;
+    background-image: url(../image/gallery-4.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath4 {
+    margin-left: 8px;
+    background-image: url(../image/gallery-5.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath5 {
+    margin-top: 8px;
+    background-image: url(../image/gallery-6.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+
+  .foot-eath6 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-7.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath7 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-8.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath8 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-9.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath9 {
+    margin-top: 8px;
+    /* margin-left: 8px; */
+    background-image: url(../image/gallery-10.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+
+  .foot-eath10 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-12.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath11 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-1.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+  .foot-eath12 {
+    margin-top: 8px;
+    margin-left: 8px;
+    background-image: url(../image/gallery-11.png);
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+  }
+
+  .money {
+    margin-top: 80px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .pricing {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #e67e22;
+  }
+
+  .eating {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #333333;
+  }
+
+  .border-box1 {
+    margin-top: 88px;
+    width: 343px;
+    height: 543px;
+    border: 1px solid #ffd8b7;
+    border-radius: 12px;
+  }
+
+  .starter {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 48px;
+    color: #e67e22;
+  }
+
+  .price1 {
+    margin-top: 31px;
+    text-align: center;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #333333;
+  }
+
+  .price-11 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #333333;
+  }
+
+  .price-text1 {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 12px;
+    color: #555555;
+  }
+
+  .ullist-itom_box1 {
+    margin-top: 58px;
+  }
+
+  .foto-phone {
+    background-image: url(../image/Rectangle\ 26.png);
+    width: 343px;
+    border-radius: 12px;
+    height: 335px;
+    margin-top: 100px;
+  }
+
+  .list-itom1 {
+    margin-top: 25px;
+    list-style: none;
+    margin-left: 18.25px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #555555;
+  }
+
+  .start-but {
+    width: 311px;
+    height: 44px;
+    margin-top: 48px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    border: none;
+    color: #ffffff;
+    background: #e67e22;
+    border-radius: 8px;
+    margin-left: 1rem;
+  }
+
+  .border-box2 {
+    margin-top: 1.2rem;
+    width: 343px;
+    height: 543px;
+    background: #feecde;
+    border-radius: 12px;
+  }
+
+  .complete {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    padding-top: 48px;
+    color: #e67e22;
+  }
+
+  .jojo {
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 343px;
+    height: 1142px;
+    background-color: #e98f40;
+    position: relative;
+    margin-bottom: 0px;
+    margin: auto;
+  }
+  .kartinka-end {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .kartinka0707 {
+    width: 343px;
+  }
+  .text-oglav {
+    margin-top: -340px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #45260a;
+    margin-left: 16px;
+    padding-top: 502px;
+    margin-bottom: 60px;
+  }
+  .healhy-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 174%;
+    padding-left: 16px;
+
+    color: #45260a;
+  }
+  form {
+    margin-top: 41px;
+    margin-left: 16px;
+  }
+  .fnameeaddress {
+    /* display: flex; */
+    margin-bottom: 14px;
+  }
+  .fname label {
+    display: block;
+    margin-bottom: 12px;
+  }
+  .fname input {
+    background-color: #ffffff;
+    color: #aaaab0;
+    outline: none;
+    width: 298px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    border: 5px solid;
+  }
+  .eaddress label {
+    display: block;
+    margin-bottom: 12px;
+    margin-left: 16px;
+  }
+  .eaddress input {
+    background-color: #ffffff;
+    color: #aaaab0;
+    outline: none;
+    width: 298px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 5px;
+  }
+
+  .labeloptionn label {
+    display: block;
+    margin-bottom: 12px;
+  }
+  .optionn {
+    display: block;
+    outline: none;
+    background-color: #ffffff;
+    color: #aaaab0;
+
+    width: 298px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 5px;
+  }
+  .signupnow input {
+    outline: none;
+    background-color: #45260a;
+    color: white;
+
+    width: 298px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+  /* section-5-end */
+  /* main-end */
+  hr {
+    margin-bottom: 88px;
+    width: 345px;
+    margin: auto;
+    margin-top: 136px;
+  }
+
+  .footer-container {
+    margin-top: 50px;
+    margin-left: 1rem;
+    border-bottom: 3px solid #dddddd;
+  }
+
+  .footer-logo {
+    width: 100px;
+    height: 20px;
+  }
+
+  .footer-universal {
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+}
+
+
+
